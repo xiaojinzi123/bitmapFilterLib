@@ -19,7 +19,7 @@ allprojects {
 add follow config code to your app module build.gradle file
 ```
 dependencies {
-     compile 'com.github.xiaojinzi123:xAnim:v0.2'
+     compile 'com.github.xiaojinzi123:bitmapFilterLib:v1.0'
 }
 ```
 
